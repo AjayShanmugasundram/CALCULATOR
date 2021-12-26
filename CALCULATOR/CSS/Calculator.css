@@ -1,0 +1,33 @@
+body{
+    background-color: azure;
+}
+#box{
+    border: 2px solid black;
+    /* margin-left: 3em; */
+    /* width: auto; */
+    
+    background-color: lightblue;
+}
+table{
+    border: black 2px solid;
+    margin-top: 1em;
+    width: fit-content;
+    background-color: grey;
+}
+button{
+    padding-left: 14px;
+    padding-right: 14px;
+    width: fit-content;
+}
+
+input{
+    width: auto;
+}
+
+#equal{
+    padding-left: 3.6em;
+}
+.button5,.button8,.button2{
+
+    padding-left: 23px;
+}
